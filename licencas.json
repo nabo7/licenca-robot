@@ -1,0 +1,27 @@
+{
+  "ABC123-XYZ789": {
+    "conta": null,
+    "ativa": true,
+    "criadaEm": "2025-08-22T02:56:46.066Z",
+    "expiraEm": "2025-12-31T00:00:00.000Z"
+  },
+  "BRXXQ1-ANMUHP": {
+    "conta": 195830891,
+    "ativa": true,
+    "criadaEm": "2025-08-22T02:57:37.812Z",
+    "expiraEm": "2025-09-21T02:57:37.812Z"
+  },
+  "9B2XB8-J04CD2": {
+    "conta": 68229578,
+    "ativa": true,
+    "criadaEm": "2025-08-22T02:58:04.646Z",
+    "expiraEm": "2025-09-21T02:58:04.646Z"
+  },
+  "4FNK11-06IKPL": {
+    "conta": 163031579,
+    "ativa": true,
+    "criadaEm": "2025-08-22T02:58:35.705Z",
+    "expiraEm": "2025-09-21T02:58:35.705Z",
+    "ultimoAcesso": "2025-08-22T08:38:28.087Z"
+  }
+}
